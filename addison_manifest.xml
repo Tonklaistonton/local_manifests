@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/realme/oscar" name="SM6375-devs/android_device_realme_oscar" remote="github" revision="lineage-21" clone-depth="1" />
-  <project path="device/realme/sm6375-common" name="phhgsi/device_oneplus_sm6375-common" remote="github" revision="everest" clone-depth="1" />
+  <project path="device/realme/oscar" name="Realme-SM6375-devs/android_device_realme_oscar" remote="github" revision="lineage-21" clone-depth="1" />
+  <project path="device/realme/sm6375-common" name="Realme-SM6375-devs/android_device_realme_sm6375-common" remote="github" revision="lineage-21" clone-depth="1" />
   <project path="kernel/realme/sm6375" name="phhgsi/android_kernel_oneplus_sm6375" remote="github" revision="new" clone-depth="1" />
-  <project path="vendor/realme/oscar" name="phhgsi/vendor_oneplus_oscar" remote="github" revision="fourteen" clone-depth="1" />
-  <project path="vendor/realme/sm6375-common" name="phhgsi/vendor_oneplus_sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
-  <project path="hardware/oplus" name="ProjectEverest-Devices/android_hardware_oplus" remote="github" revision="everest-qpr2" clone-depth="1" />
+  <project path="vendor/realme/oscar" name="Realme-SM6375-devs/proprietary_vendor_realme_oscar" remote="github" revision="lineage-21" clone-depth="1" />
+  <project path="vendor/realme/sm6375-common" name="Realme-SM6375-devs/proprietary_vendor_realme_sm6375-common" remote="github" revision="lineage-21" clone-depth="1" />
+  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-21" clone-depth="1" />
   <!-- <project name="hardware/google/pixel/kernel_headers" /> -->
 </manifest>
