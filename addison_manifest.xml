@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/oneplus/oscar" name="LineageOS/android_device_oneplus_oscaro" remote="github" revision="lineage-22.1" clone-depth="1" />
+  <project path="device/oneplus/oscaro" name="LineageOS/android_device_oneplus_oscaro" remote="github" revision="lineage-22.1" clone-depth="1" />
   <project path="device/oneplus/sm6375-common" name="LineageOS/android_device_oneplus_sm6375-common" remote="github" revision="lineage-22.1" clone-depth="1" />
   <project path="kernel/oneplus/sm6375" name="LineageOS/android_kernel_oneplus_sm6375" remote="github" revision="lineage-22.1" clone-depth="1" />
-  <project path="vendor/oneplus/oscar" name="phhgsi/vendor_oneplus_oscar" remote="github" revision="fourteen" clone-depth="1" />
+  <project path="vendor/oneplus/oscaro" name="phhgsi/vendor_oneplus_oscar" remote="github" revision="fourteen" clone-depth="1" />
   <project path="vendor/oneplus/sm6375-common" name="phhgsi/vendor_oneplus_sm6375-common" remote="github" revision="fourteen" clone-depth="1" />
   <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-22.1" clone-depth="1" />
   <!-- <project name="hardware/google/pixel/kernel_headers" /> -->
